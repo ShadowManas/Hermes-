@@ -76,11 +76,11 @@ Instantly analyzes the content of opened emails using **TextBlob**, **spaCy**, *
 
 ### 2. Main Dashboard & NLP Analysis
 *Inbox view with real-time Sentiment and Intent analysis side-by-side.*
-<img width="665" height="353" alt="Image" src="https://github.com/user-attachments/assets/b0203b03-f3a1-4a8a-9749-edee8687f684" />
+![Image](https://github.com/user-attachments/assets/34b72dc7-9866-42cc-99ff-2760fa3463c6)
 
 ### 3. Analytics & Dark Mode
 *Visual data representation of email habits.*
-<img width="665" height="353" alt="Image" src="https://github.com/user-attachments/assets/5f50d42f-ab39-4c33-92ab-89d54aab6582" />
+![Image](https://github.com/user-attachments/assets/cb29b828-864a-43fb-bb6f-f64810420a27)
 
 ---
 
